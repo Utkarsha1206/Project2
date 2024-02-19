@@ -1,0 +1,4 @@
+
+echo "*.classpath" >>.gitignore
+echo "*.settings" >>.gitignore
+echo "*.project" >>.gitignore
